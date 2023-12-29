@@ -8,7 +8,7 @@
 
 <a href="https://www.linkedin.com/in/subbaraidu/" target="blank"><img align="center" src="https://static-00.iconduck.com/assets.00/linkedin-icon-2048x2048-ya5g47j2.png" height="30" width="30"></a> 
 
-<img src="https://cdn-icons-png.flaticon.com/512/281/281769.png" height="30" width="30">  naveenvarmap7666@gmail.com
+<img src="https://cdn-icons-png.flaticon.com/512/281/281769.png" height="30" width="30">  subbaraidu124@gmail.com
 
 Hey by the way can you decode this rebus puzzle? Hint: it's my name, Just kidding 😄 you can find the answer at the end.
 
