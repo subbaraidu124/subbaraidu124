@@ -1,8 +1,8 @@
-👋 Hey there! welcome, I'm Naveen Varma, your friendly neighborhood data geek. I'm thrilled you stopped by my GitHub profile! Dive into my awesome data-driven world 💼, where you'll find tons of cool ideas and projects crafted by me. Feel the excitement, explore around, and don't hesitate to reach out anytime! 
+👋 Hey there! welcome, I'm Subbaraidu, your friendly neighborhood data geek. I'm thrilled you stopped by my GitHub profile! Dive into my awesome data-driven world 💼, where you'll find tons of cool ideas and projects crafted by me. Feel the excitement, explore around, and don't hesitate to reach out anytime! 
 
 <img src="https://media0.giphy.com/media/K16aUytpG7JybNAfWH/200w.gif?cid=6c09b952blvi0ihvup83ws44pg2yjz85vmua0u56csj2gx7d&ep=v1_gifs_search&rid=200w.gif&ct=s" align="right" width="200" Height="200">
 
-<img src="https://png.pngtree.com/png-clipart/20220429/original/pngtree-pin-location-icon-with-folded-map-png-image_7581594.png" height="20" width="20">   Stillwater, Oklahoma, USA
+<img src="https://png.pngtree.com/png-clipart/20220429/original/pngtree-pin-location-icon-with-folded-map-png-image_7581594.png" height="20" width="20">   Memphis, Tennessee, USA
 
 <h4 align="left">Connect with me:</h4>
 
