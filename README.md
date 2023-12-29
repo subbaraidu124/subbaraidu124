@@ -10,7 +10,7 @@
 
 <img src="https://cdn-icons-png.flaticon.com/512/281/281769.png" height="30" width="30">  subbaraidu124@gmail.com
 
-Hey by the way can you decode this rebus puzzle? Hint: it's my name, Just kidding 😄 you can find the answer at the end.
+Hey by the way can you decode this rebus puzzle? Hint: it's my Dogs name, Just kidding 😄 you can find the answer at the end.
 
 <img src="https://www.rd.com/wp-content/uploads/2020/10/Rebuspuzzle.png?fit=700,700?fit=700,700" height="100" width="100"> 
 
