@@ -12,7 +12,7 @@
 
 Hey by the way can you decode this rebus puzzle? Hint: it's my name, Just kidding 😄 you can find the answer at the end.
 
-<img src="https://www.rd.com/wp-content/uploads/2020/10/Rebus-puzzle.png?fit=700,700" height="100" width="100"> 
+<img src="https://www.rd.com/wp-content/uploads/2020/10/Rebuspuzzle.png?fit=700,700?fit=700,700" height="100" width="100"> 
 
 # About me  🚀
 
