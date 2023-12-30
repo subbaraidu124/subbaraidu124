@@ -16,13 +16,16 @@ Hey by the way can you decode this rebus puzzle? Hint: it's my Dogs name, Just k
 
 # About me  🚀
 
-You know, I'm the person who fearlessly dives into the depths of spreadsheets, surfacing with insights that'll make you go, "Land sakes alive! Unbelievable, we've been sitting on this data goldmine all this while. 📊 With a solid three years navigating the data terrain, I've not just earned my stripes as a data wrangler but also evolved into the Sherlock Holmes of missing puzzle pieces, relentlessly tracking them down.
+🎓 Graduating with a degree in Information Systems from University of Memphis, I have laid a robust foundation in database systems, data analytics, and machine learning. My academic journey, combined with hands-on projects and internships, has equipped me with the technical prowess needed for the evolving field of data engineering.
 
-🎓✨ I've conquered the realms of data mining and visualization with the finesse of a seasoned pro. From unraveling the intricacies of data mining to conquering the complexities of web mining, I'm your go-to analyst. Picture me as a magician 🎩✨who not only predicts what you're likely to buy through clickstream analysis but, hold your excitement, the show goes on—I can even sense your emotions using sentimental analysis.  So, whether it's deciphering data mysteries or tuning into the sentiments behind them, think of me as your analytics wizard. 🌐🕵️‍♂️✨
+🚀🔧 Crafting Data Foundations: I've triumphed in the domains of data engineering with the precision of a seasoned architect. From architecting robust data pipelines to mastering the intricacies of ETL processes, consider me your go-to data engineer. Visualize me not just as a problem solver but as a data infrastructure maestro meticulously shaping the backbone of data-driven systems.
 
-- 🌱 Learning advanced techniques in Predictive Analytics and web mining
-- 👯 Looking to collaborate on data-driven projects on sports
-- 💬 Ask me about Data Preprocessing, Riddles
+💻 As an engineer of data solutions, I engineer the seamless flow of information through data pipelines. But hold on to your excitement—the journey doesn't conclude there. I delve into the intricacies of optimizing databases, ensuring efficiency in data retrieval and storage.
+
+🔍 So, whether it's crafting data architectures or tuning into the performance nuances behind them, envision me as your data engineering wizard. 🌐🔧✨ Let's embark on a data-driven journey where every data point is seamlessly orchestrated, and each solution is a testament to the power of efficient data engineering! 🌌🔍
+
+- 🌱 Learning advanced techniques in Data Analytics and Machine Learning
+- 👯 Looking to collaborate on data-driven projects on healthcare
 
 # ⚙️ Adept Tool Kit
 
@@ -50,7 +53,6 @@ You know, I'm the person who fearlessly dives into the depths of spreadsheets, s
 - Cloud Computing / Data Warehousing: AWS, SSMS, SSIS
 
 
-(Answer for riddle: Green with envy)
 
 
 
