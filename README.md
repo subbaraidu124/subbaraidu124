@@ -47,12 +47,12 @@ Hey by the way can you decode this rebus puzzle? Hint: it's my Dogs name, Just k
 
  
 - Scripting Languages: Bash, PowerShell.
-- Operating System: Linux, Mac OS, Windows
+- Operating System: Linux, Mac OS, Windows.
 - AWS services: EC2, S3, RDS, Lambda, IAM, VPC, Route 53.
 - Cloud Computing: Azure, Azure DevOps,Docker, Kubernetes, Terraform, Git, GitHub.
 - Methodologies: Agile, Scrum. 
-- Machine learning: Machine learning models(RF,ANN,LR,Regression),testing methods(Standard,K-fold cross validation)
-- Statistical analysis and testing: Inferential and Descriptive Statistics, A/B testing, ANOVA testing, F- test, Chi-square
+- Machine learning: Machine learning models(RF,ANN,LR,Regression),testing methods(Standard,K-fold cross validation).
+- Statistical analysis and testing: Inferential and Descriptive Statistics, A/B testing, ANOVA testing, F- test, Chi-square.
 
   
 
