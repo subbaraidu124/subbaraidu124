@@ -1,4 +1,4 @@
-👋 Hey there! welcome, I'm Subbaraidu, your friendly neighborhood data geek. I'm thrilled you stopped by my GitHub profile! Dive into my awesome data-driven world 💼, where you'll find tons of cool ideas and projects crafted by me. Feel the excitement, explore around, and don't hesitate to reach out anytime! 
+🚀 Greetings! I'm Subbaraidu Nimmala, a recent graduate and enthusiastic data aficionado with a fervor for translating raw data into profound insights. 📊 Eager to contribute my skills to the realm of data engineering, I bring a fresh perspective and an insatiable appetite for continuous learning to any dynamic team. Your visit to my GitHub profile has me thrilled! Immerse yourself in my captivating data-driven universe 💼, featuring an array of innovative ideas and projects meticulously crafted by yours truly. Experience the excitement, explore freely, and feel welcome to reach out at any time! 👋
 
 <img src="https://media0.giphy.com/media/K16aUytpG7JybNAfWH/200w.gif?cid=6c09b952blvi0ihvup83ws44pg2yjz85vmua0u56csj2gx7d&ep=v1_gifs_search&rid=200w.gif&ct=s" align="right" width="200" Height="200">
 
