@@ -8,7 +8,7 @@
 
 🎓 I hold a Master of Science in Information Systems from the University of Memphis and a Bachelor of Technology in Computer Science and Engineering from Sathyabama University.
 
-🌟 I'm always excited to collaborate on innovative data projects and contribute to the vibrant developer community on GitHub. Feel free to explore my repositories and connect with me on LinkedIn or via email at subbaraidu124@gmail.com.
+🌟 I'm always excited to collaborate on innovative data projects and contribute to the vibrant developer community on GitHub.
 
 Let's build something awesome together! 🚀
 
