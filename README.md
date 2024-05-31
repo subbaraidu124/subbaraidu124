@@ -96,15 +96,6 @@ Jan 2022 – May 2022
   
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="30" height="30"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="30" height="30"> 
 
- 
-- Scripting Languages: Bash, PowerShell.
-- Operating System: Linux, Mac OS, Windows.
-- AWS services: EC2, S3, RDS, Lambda, IAM, VPC, Route 53.
-- Cloud Computing: Azure, Azure DevOps,Docker, Kubernetes, Terraform, Git, GitHub.
-- Methodologies: Agile, Scrum. 
-- Machine learning: Machine learning models(RF,ANN,LR,Regression),testing methods(Standard,K-fold cross validation).
-- Statistical analysis and testing: Inferential and Descriptive Statistics, A/B testing, ANOVA testing, F- test, Chi-square.
-
   
 
 
