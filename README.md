@@ -28,16 +28,55 @@ Hey by the way can you decode this rebus puzzle? Hint: it's my Dogs name, Just k
 
 # About me  🚀
 
-🎓 Graduating with a degree in Information Systems from University of Memphis, I have laid a robust foundation in database systems, data analytics, and machine learning. My academic journey, combined with hands-on projects and internships, has equipped me with the technical prowess needed for the evolving field of data engineering.
+🎓 Information Systems Graduate | University of Memphis
+With a solid foundation in database systems, data analytics, and machine learning, I am well-equipped to thrive in the ever-evolving field of data engineering.
 
-🚀🔧 Crafting Data Foundations: I've triumphed in the domains of data engineering with the precision of a seasoned architect. From architecting robust data pipelines to mastering the intricacies of ETL processes, consider me your go-to data engineer. Visualize me not just as a problem solver but as a data infrastructure maestro meticulously shaping the backbone of data-driven systems.
+🚀🔧 Data Engineering Expert:
+I have honed my skills in data engineering, from architecting robust data pipelines to mastering ETL processes. My experience positions me as a data infrastructure maestro, ensuring the seamless flow and optimization of data across systems.
 
-💻 As an engineer of data solutions, I engineer the seamless flow of information through data pipelines. But hold on to your excitement—the journey doesn't conclude there. I delve into the intricacies of optimizing databases, ensuring efficiency in data retrieval and storage.
+Skills and Expertise
+🌱 Advanced Techniques: Data Analytics, Machine Learning
+👯 Collaboration: Data-driven projects, especially in healthcare
+💻 Technical Prowess: SQL, Python, PySpark, SnapLogic Pipelines, Databricks
+🌐 Cloud Platforms: AWS, Azure, Oracle
+📊 Business Intelligence: Tableau, Power BI
+🔧 Tools and Methodologies: Git, Agile, Scrum, Waterfall
+Professional Experience
+EnScope IT LLC
+Data Engineer | Alpharetta, GA | Jan 2023 – May 2023
 
-🔍 So, whether it's crafting data architectures or tuning into the performance nuances behind them, envision me as your data engineering wizard. 🌐🔧✨ Let's embark on a data-driven journey where every data point is seamlessly orchestrated, and each solution is a testament to the power of efficient data engineering! 🌌🔍
+🌊 Created data pipelines for loading data into a delta lake.
+🤝 Collaborated with unit testing and cross-functional teams to identify and resolve data mismatches.
+🔄 Transformed data using SQL and PySpark, ensuring efficient data processing.
+🛠 Monitored and documented ingestion jobs in Databricks.
+Genesis Infocom Private Limited
+Integrations Developer | Bangalore | May 2019 – Dec 2021
 
-- 🌱 Learning advanced techniques in Data Analytics and Machine Learning
-- 👯 Looking to collaborate on data-driven projects on healthcare
+⏳ Developed ETL pipelines in SnapLogic, automating 4 hours of daily manual work.
+🔄 Used JavaScript for complex data transformations and error handling.
+📊 Created detailed documentation for debugging and pipeline management.
+Academic Projects
+Formula 1 Data Analysis Using Azure Databricks
+Dec 2023
+
+📈 Developed Spark workflows to analyze historical Formula 1 race data.
+🔒 Integrated Azure services for secure and efficient data storage and processing.
+📊 Created interactive dashboards using Power BI.
+ETL Pipelines on Financial Market Data
+Feb 2023 – Mar 2023
+
+🔄 Developed ETL pipelines using Python for financial market data analysis.
+🛠 Utilized AWS S3 for data storage and generated comprehensive data reports.
+Not For Sale
+Jun 2022 – Aug 2022
+
+📱 Developed a mobile app using React Native to connect users with nearby giveaways.
+🗺 Implemented map and image picker functionalities for enhanced user experience.
+COVID-19 Tracker
+Jan 2022 – May 2022
+
+📊 Created a web application to display COVID-19 statistics using live API data.
+🎨 Enhanced UI using Material UI and data visualization with Chart.js.
 
 # ⚙️ Adept Tool Kit
 
