@@ -1,16 +1,14 @@
-👋 Hey there! I'm N B V SUBBA RAIDU, a passionate Data Engineer based in the United States, with a knack for crafting robust data pipelines that drive impactful insights. With over 3 years of hands-on experience, I specialize in designing and implementing data solutions using a diverse tech stack, including SQL, Python, PySpark, SnapLogic Pipelines, and Databricks.
+👋 Hey there! I'm N B V SUBBA RAIDU, a passionate Software Engineer based in the United States, with a focus on building scalable web applications and systems. With over 3 years of hands-on experience, I specialize in designing and implementing software solutions using technologies like C#, .NET, JavaScript, Angular, SQL, and VB.NET.
 
-🛠️ My technical toolkit encompasses a wide array of skills, from data warehousing concepts and cloud platforms like AWS and Azure to web development frameworks like React Native and Angular. I'm proficient in version control using Git and Bitbucket and well-versed in both Waterfall and Agile methodologies.
+🛠️ My technical toolkit covers a broad range of skills, from full-stack web development to cloud platforms like AWS and Azure. I’m proficient in version control systems like Git and Bitbucket and have experience in both Waterfall and Agile methodologies.
 
-💼 In my most recent role at EnScope IT LLC, I honed my skills in creating efficient data pipelines, collaborating seamlessly with cross-functional teams, and ensuring data integrity through meticulous monitoring and documentation. Prior to that, at Data ERP Systems, I led a team in developing ETL pipelines that significantly streamlined workflows, saving valuable time and resources.
+💼 In my most recent role at EnScope IT LLC, I focused on developing web applications, enhancing user interfaces, and ensuring seamless back-end integration. Prior to that, at Genesis Infocom Private Limited, I led the development of full-stack applications, implemented API integrations, and automated workflows, which significantly improved project efficiency.
 
-📚 Outside the professional realm, I've undertaken various academic projects, from analyzing Formula 1 race data using Azure Databricks to developing ETL pipelines for financial market data on AWS S3. I'm also passionate about leveraging technology for social impact, as demonstrated by projects like "Not For Sale," an iOS and Android app aimed at connecting donors with those in need.
+📚 I've also worked on various academic projects, including building web applications and mobile apps, analyzing data using cloud-based services, and developing real-time solutions like a COVID-19 Tracker using React and Chart.js.
 
 🎓 I hold a Master of Science in Information Systems from the University of Memphis and a Bachelor of Technology in Computer Science and Engineering from Sathyabama University.
 
-🌟 I'm always excited to collaborate on innovative data projects and contribute to the vibrant developer community on GitHub.
-
-Let's build something awesome together! 🚀
+🌟 I'm passionate about creating innovative solutions that improve user experiences and drive business outcomes. Let’s build something great together! 🚀
 
 <img src="https://media0.giphy.com/media/K16aUytpG7JybNAfWH/200w.gif?cid=6c09b952blvi0ihvup83ws44pg2yjz85vmua0u56csj2gx7d&ep=v1_gifs_search&rid=200w.gif&ct=s" align="right" width="200" Height="200">
 
