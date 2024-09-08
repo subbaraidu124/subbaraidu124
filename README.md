@@ -1,4 +1,4 @@
-👋 Hey there! I'm N B V SUBBA RAIDU, a passionate Software Engineer based in the United States, with a focus on building scalable web applications and systems. With over 3 years of hands-on experience, I specialize in designing and implementing software solutions using technologies like C#, .NET, JavaScript, Angular, SQL, and VB.NET.
+👋 Hey there! I'm Bala Nimmala, a passionate Software Engineer based in the United States, with a focus on building scalable web applications and systems. With over 3 years of hands-on experience, I specialize in designing and implementing software solutions using technologies like C#, .NET, JavaScript, Angular, SQL, and VB.NET.
 
 🛠️ My technical toolkit covers a broad range of skills, from full-stack web development to cloud platforms like AWS and Azure. I’m proficient in version control systems like Git and Bitbucket and have experience in both Waterfall and Agile methodologies.
 
@@ -18,7 +18,7 @@
 
 <a href="https://www.linkedin.com/in/subba-raidu-71960b296/" target="blank"><img align="center" src="https://static-00.iconduck.com/assets.00/linkedin-icon-2048x2048-ya5g47j2.png" height="30" width="30"></a> 
 
-<img src="https://cdn-icons-png.flaticon.com/512/281/281769.png" height="30" width="30">  subbaraidu124@gmail.com
+<img src="https://cdn-icons-png.flaticon.com/512/281/281769.png" height="30" width="30">  bala.nimmala4@gmail.com
 
 Hey by the way can you decode this rebus puzzle? Hint: it's my Dogs name, Just kidding 😄 you can find the answer at the end.
 
